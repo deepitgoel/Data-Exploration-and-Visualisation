@@ -1,5 +1,5 @@
-# Data-Exploration-and-Visualisation
-This is my first data exploration project using data from well known OTT platform
+# BASIC Data-Exploration-and-Visualisation
+data exploration, visualisation and Insights project using data from well known OTT platform
 
 ## Problem Statement :
 - Which type of shows to produce and how to grow the business?
